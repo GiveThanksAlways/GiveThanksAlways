@@ -21,3 +21,6 @@ source: [Quanta Magazine](https://www.quantamagazine.org/eulers-243-year-old-imp
 Before viewing my GitHub profile, I highly recommend that you check out [quantamagazine.org](https://www.quantamagazine.org/). I love their scientific writing and their inspirational artwork. One of the best science websites you can find on the internet. 
 
 > "Quanta Magazine is an editorially independent online publication launched by the Simons Foundation to enhance public understanding of science. Why Quanta? Albert Einstein called photons “quanta of light.” Our goal is to “illuminate science.” "
+
+## Portfolio (GitHub Pages)
+[my portfolio](https://givethanksalways.github.io/)
