@@ -28,4 +28,4 @@ Before viewing my GitHub profile, I highly recommend that you check out [quantam
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,vim,neovim,vscode,nix,linux,github,gitlab,git,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,py,vim,neovim,vscode,nix,linux,raspberrypi,github,gitlab&perline=4)](https://skillicons.dev)
