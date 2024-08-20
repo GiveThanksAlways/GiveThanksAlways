@@ -22,5 +22,10 @@ Before viewing my GitHub profile, I highly recommend that you check out [quantam
 
 > "Quanta Magazine is an editorially independent online publication launched by the Simons Foundation to enhance public understanding of science. Why Quanta? Albert Einstein called photons “quanta of light.” Our goal is to “illuminate science.” "
 
+
 ## Portfolio (GitHub Pages)
-[my portfolio](https://givethanksalways.github.io/)
+[givethanksalways.github.io](https://givethanksalways.github.io/)
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,vim,neovim,vscode,nix,linux,github,gitlab,git,py)](https://skillicons.dev)
